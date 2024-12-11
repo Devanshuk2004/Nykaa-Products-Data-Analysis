@@ -45,12 +45,4 @@ This project focuses on analyzing product data from the Nykaa platform. The data
 3. Navigate to the `notebooks` directory and open the Jupyter notebooks to explore the analysis and results.
 4. Follow the steps outlined in the notebooks to reproduce the analysis or modify it as needed.
 
-## Contributing
 
-Contributions to this project are welcome! Feel free to fork this repository, make changes, and submit pull requests. For major changes, please open an issue first to discuss proposed updates or improvements.
-
-## Contact
-
-For any questions, suggestions, or issues, please feel free to contact me via email at [your_email@example.com].
-
-Thank you for your interest in the Nykaa Product Analysis project! I hope you find the insights generated from the analysis valuable.
